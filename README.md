@@ -6,3 +6,4 @@ Olá ! Bem vindo ao meu livro secreto de receitas :hamburger:
 
 - Strogonoff de frango
 - Pavê 
+- Bolo de cenoura
